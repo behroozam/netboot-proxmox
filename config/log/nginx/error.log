@@ -1,0 +1,2 @@
+2026/04/26 09:19:00 [error] 49#49: *2 open() "/assets/favicon.ico" failed (2: No such file or directory), client: 172.17.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:4000", referrer: "http://localhost:4000/"
+2026/04/26 09:29:00 [error] 49#49: *23 open() "/assets/favicon.ico" failed (2: No such file or directory), client: 172.17.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.102:4000", referrer: "http://192.168.1.102:4000/"
